@@ -54,7 +54,7 @@ One important tool we will use here for an interactive coding is jupyter lab, or
 Jupyter lab in particular has more advanced functionalities than traditional notebooks. So if you don't have jupyter locally feel free to install the labs feature using the following command.
 
 ```
-pip install jupterlab
+pip install jupyterlab
 ```
 
 ### Run the notebooks
