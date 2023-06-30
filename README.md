@@ -73,6 +73,6 @@ The description of this can be found in the following link <link to the blog>.
 
 **Note**
 
-For this example the version of python used is: 3.10.11 
+For this example, the version of python used is: 3.10.11 
 
 As for the data, you will find a sample data under the data folder in this repository but feel free to use any dataset with the same schema. 
